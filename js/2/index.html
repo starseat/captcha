@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+
+    <title>captcha sample 2</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="form-container">
+    <h1>Login</h1>
+    <form name="logForm" id="logForm">
+        <input type="text" name="user" placeholder="Username">
+        <input type="password" name="pass" placeholder="Password">
+        <div class="captcha">
+            <div id="captchaValue"></div>
+            <input type="text" id="inputCaptcha" name="inputCaptcha" placeholder="Captcha">
+        </div>
+        <button id="submitBtn">Submit</button>
+    </form>
+</div>
+
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
