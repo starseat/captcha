@@ -53,3 +53,31 @@
 
 - page: http://localhost/php/captcha/8/form.php
 - ref: https://www.youtube.com/watch?v=P_-sAZCmOqU
+
+### 9
+
+- page: http://localhost/php/captcha/9/index.php
+- ref: https://www.youtube.com/watch?v=1_JTAMfddIg
+
+### 10
+
+- page: http://localhost/php/captcha/10/index.php
+- ref: https://www.youtube.com/watch?v=ta2nf2XVCHY
+
+### 11
+
+- page: http://localhost/php/captcha/11/index.php
+- ref: https://www.youtube.com/watch?v=29y-9DDnunw
+
+![11 result](md-imgs/11.png)
+
+
+### 12
+
+- page:
+- ref: https://www.youtube.com/watch?v=XblRknyaPys
+
+### 13
+
+- page:
+- ref: https://www.youtube.com/watch?v=VVNtwKlu0TQ
